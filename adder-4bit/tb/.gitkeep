@@ -1,0 +1,2 @@
+# 该目录放 testbench（*_tb.v）
+# testbench 里用 $dumpfile("build/wave.vcd") 和 $dumpvars 产生波形

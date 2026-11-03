@@ -1,0 +1,23 @@
+# 仿真与编译产物，不要提交
+*.vcd
+*.fvcd
+*.vvp
+*.out
+*.log
+build/
+work/
+obj_dir/
+xsim.dir/
+*.wdb
+*.fsdb
+
+# WPS / Office 临时文件
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.swp
+*~
